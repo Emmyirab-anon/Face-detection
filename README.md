@@ -1,2 +1,2 @@
 # Face-detection
-Detects faces in real time using openCv
+Detects faces in real time (from the webcam) using openCv
